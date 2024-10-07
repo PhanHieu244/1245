@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e0cd9f23af444b4e890e9b17534ba527
+timeCreated: 1566339164
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "BOMBARD_"
+  fontNames:
+  - Bombardier
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

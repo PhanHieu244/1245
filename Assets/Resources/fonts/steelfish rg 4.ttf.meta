@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e31fbb9b384e4680b61864f4f7f22719
+timeCreated: 1566339135
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "steelfish rg 4"
+  fontNames:
+  - Steelfish
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

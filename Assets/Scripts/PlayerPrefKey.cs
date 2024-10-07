@@ -1,0 +1,100 @@
+using System;
+
+public class PlayerPrefKey
+{
+	public static string KEY_LAST_TIME_CLOSE_APP = "KEY_LAST_TIME_CLOSE_APP";
+
+	public static string KEY_IS_PASSED_BOSS_LEVEL = "KEY_IS_PASSED_BOSS_LEVEL";
+
+	public static string KEY_UPGRADE_LEVEL_POWER = "KEY_UPGRADE_LEVEL_POWER";
+
+	public static string KEY_UPGRADE_PRICE_POWER = "KEY_UPGRADE_PRICE_POWER";
+
+	public static string KEY_UPGRADE_LEVEL_BULLETSPEED = "KEY_UPGRADE_LEVEL_BULLETSPEED";
+
+	public static string KEY_UPGRADE_PRICE_BULLETSPEED = "KEY_UPGRADE_PRICE_BULLETSPEED";
+
+	public static string KEY_UPGRADE_LEVEL_RELOADSPEED = "KEY_UPGRADE_LEVEL_RELOADSPEED";
+
+	public static string KEY_UPGRADE_PRICE_RELOADSPEED = "KEY_UPGRADE_PRICE_RELOADSPEED";
+
+	public static string KEY_UPGRADE_LEVEL_OFFLINEEARNING = "KEY_UPGRADE_LEVEL_OFFLINEEARNING";
+
+	public static string KEY_UPGRADE_PRICE_OFFLINEEARNING = "KEY_UPGRADE_PRICE_OFFLINEEARNING";
+
+	public static string KEY_UPGRADE_VALUE_OFFLINEEARNING = "KEY_UPGRADE_VALUE_OFFLINEEARNING";
+
+	public static string KEY_BOOSTER_SPEED_LAST_TIME = "KEY_BOOSTER_SPEED_LAST_TIME";
+
+	public static string KEY_BOOSTER_COOLDOWN_LAST_TIME = "KEY_BOOSTER_COOLDOWN_LAST_TIME";
+
+	public static string KEY_BOOSTER_REVENUE_LAST_TIME = "KEY_BOOSTER_REVENUE_LAST_TIME";
+
+	public static string KEY_BOOSTER_SPEED_TIME_REMAING = "KEY_BOOSTER_SPEED_TIME_REMAING";
+
+	public static string KEY_BOOSTER_COOLDOWN_TIME_REMAING = "KEY_BOOSTER_COOLDOWN_TIME_REMAING";
+
+	public static string KEY_BOOSTER_REVENUE_TIME_REMAING = "KEY_BOOSTER_REVENUE_TIME_REMAING";
+
+	public static string KEY_BOOSTER_TIMEWARP_IS_USED = "KEY_BOOSTER_TIMEWARP_IS_USED";
+
+	public static string KEY_BOOSTER_COOLDOWN_IS_USED = "KEY_BOOSTER_COOLDOWN_IS_USED";
+
+	public static string KEY_BOOSTER_REVENUE_IS_USED = "KEY_BOOSTER_REVENUE_IS_USED";
+
+	public static string KEY_ITEM_1_LAST_TIME = "KEY_ITEM_1_LAST_TIME";
+
+	public static string KEY_ITEM_2_LAST_TIME = "KEY_ITEM_2_LAST_TIME";
+
+	public static string KEY_ITEM_3_LAST_TIME = "KEY_ITEM_3_LAST_TIME";
+
+	public static string KEY_ITEM_4_LAST_TIME = "KEY_ITEM_4_LAST_TIME";
+
+	public static string KEY_ITEM_5_LAST_TIME = "KEY_ITEM_5_LAST_TIME";
+
+	public static string KEY_ITEM_6_LAST_TIME = "KEY_ITEM_6_LAST_TIME";
+
+	public static string KEY_ITEM_7_LAST_TIME = "KEY_ITEM_7_LAST_TIME";
+
+	public static string KEY_ITEM_1_TIME_REMAINING = "KEY_ITEM_1_TIME_REMAINING";
+
+	public static string KEY_ITEM_2_TIME_REMAINING = "KEY_ITEM_2_TIME_REMAINING";
+
+	public static string KEY_ITEM_3_TIME_REMAINING = "KEY_ITEM_3_TIME_REMAINING";
+
+	public static string KEY_ITEM_4_TIME_REMAINING = "KEY_ITEM_4_TIME_REMAINING";
+
+	public static string KEY_ITEM_5_TIME_REMAINING = "KEY_ITEM_5_TIME_REMAINING";
+
+	public static string KEY_ITEM_6_TIME_REMAINING = "KEY_ITEM_6_TIME_REMAINING";
+
+	public static string KEY_ITEM_7_TIME_REMAINING = "KEY_ITEM_7_TIME_REMAINING";
+
+	public static string KEY_TANK_POWER = "KEY_TANK_POWER";
+
+	public static string KEY_TANK_BULLETSPEED = "KEY_TANK_BULLETSPEED";
+
+	public static string KEY_TANK_RELOADSPEED = "KEY_TANK_RELOADSPEED";
+
+	public static string KEY_LEVEL = "KEY_LEVEL";
+
+	public static string KEY_COIN = "KEY_COIN";
+
+	public static string KEY_DIAMOND = "KEY_DIAMOND";
+
+	public static string KEY_CURRENT_HP = "KEY_CURRENT_HP";
+
+	public static string KEY_INIT_HP = "KEY_INIT_HP";
+
+	public static string KEY_DID_REMOVE_ADS = "KEY_DID_REMOVE_ADS";
+
+	public static string KEY_CHECK_APP_OPENED = "KEY_CHECK_APP_OPENED";
+
+	public static string KEY_NUM_OF_TIME_RESET = "KEY_NUM_OF_TIME_RESET";
+
+	public static string KEY_SOUND = "KEY_SOUND";
+
+	public static string KEY_AUTO_USE = "KEY_AUTO_USE";
+
+	public static string KEY_CHECK_PASSED_100_LEVEL = "KEY_CHECK_PASSED_100_LEVEL";
+}
