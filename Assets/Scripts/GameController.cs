@@ -316,7 +316,7 @@ public class GameController : MonoBehaviour
 			int num_of_time_reset = this.game.Num_of_time_reset;
 			if (num_of_time_reset <= 1)
 			{
-				GameObject original = Resources.Load("Prefabs/Tanks/RedTank") as GameObject;
+				GameObject original = Resources.Load("Prefabs/Tanks/CustomTank") as GameObject;
 				UnityEngine.Object.Instantiate<GameObject>(original, gameObject.transform);
 			}
 			else
